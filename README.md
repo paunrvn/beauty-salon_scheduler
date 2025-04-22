@@ -16,3 +16,4 @@ TODO:
 - Create "My appointments" page for user
 - Create "Manage bookings" page for employee
 - BONUS: Integrate some email system when booking
+# beauty-salon_scheduler
